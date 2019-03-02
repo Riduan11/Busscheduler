@@ -1,3 +1,101 @@
 <resources>
+
     <string name="app_name">Bus scheduler</string>
+
+    <string name="student">Jova\n
+    Arrival time:8:30Am from chacra to campus\n
+    Arrival time:8:30Am from chacra to campus\n
+        departure time 2pm from campus to chacra\n
+        departure time 3:30pm from campus to chacra\n
+        departure time 5:00pm from campus to chacra\n\n\n
+        DolonChapa\n\n
+        Arrival time:8:30Am from chacra to campus\n
+    Arrival time:8:30Am from chacra to campus\n
+        departure time 2pm from campus to chacra\n
+        departure time 3:30pm from campus to chacra\n
+        departure time 5:00pm from campus to chacra\n\n\n\n
+        Shapla:\n\n
+        Arrival time:8:30Am from chacra to campus\n
+    Arrival time:8:30Am from chacra to campus\n
+        departure time 2pm from campus to chacra\n
+        departure time 3:30pm from campus to chacra\n
+        departure time 5:00pm from campus to chacra\n\n\n
+        Gholap:\n\n
+        Arrival time:8:30Am from chacra to campus\n
+    Arrival time:8:30Am from chacra to campus\n
+        departure time 2pm from campus to chacra\n
+        departure time 3:30pm from campus to chacra\n
+        departure time 5:00pm from campus to chacra\n\n\n
+
+        Rojonigondha\n\n\n
+
+        Arrival time:8:30Am from chacra to campus\n
+    Arrival time:8:30Am from chacra to campus\n
+        departure time 2pm from campus to chacra\n
+        departure time 3:30pm from campus to chacra\n
+        departure time 5:00pm from campus to chacra\n\n\n
+
+
+        Hasnahena\n\n
+        Arrival time:8:30Am from Monihar to campus\n
+    Arrival time:8:30Am from Monihar to campus\n
+        departure time 2pm from campus to Monihar\n
+        departure time 3:30pm from campus to Monihar\n
+        departure time 5:00pm from campus to Monihar\n\n\n
+
+
+
+
+
+
+
+
+    </string>
+    <string name="stuff">
+          Arrival time:8:30Am from chacra to campus\n
+    Arrival time:8:30Am from chacra to campus\n
+        departure time 2pm from campus to chacra\n
+        departure time 3:30pm from campus to chacra\n
+        departure time 5:00pm from campus to chacra\n\n\n
+
+
+
+
+    </string>
+
+
+
+
+
+
+    <string name="teacher">
+        Kopotakko:\n\n
+          Arrival time:8:30Am from chacra to campus\n
+    Arrival time:8:30Am from chacra to campus\n
+        departure time 2pm from campus to chacra\n
+        departure time 3:30pm from campus to chacra\n
+        departure time 5:00pm from campus to chacra\n\n\n
+
+
+    </string>
+
+
+    <string-array name="Bus">
+
+
+        <item> Student Bus </item>
+        <item> Teacher Bus </item>
+        <item> Stuff Bus </item>
+
+
+    </string-array>
+
+
+
+
+
+
+
+
+
 </resources>

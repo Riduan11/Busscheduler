@@ -4,26 +4,33 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-   android:orientation="vertical"
-    android:background="#05bbf7"
+    android:orientation="vertical"
     tools:context=".MainActivity">
+
 
     <ImageView
         android:id="@+id/image"
         android:src="@drawable/bus2"
-         android:scaleType="fitXY"
+        android:scaleType="fitXY"
         android:layout_marginBottom="10dp"
         android:layout_width="match_parent"
         android:layout_height="200dp"
 
         />
-  <Button
-      android:id="@+id/button"
-      android:textSize="20sp"
-      android:textColor="#000000"
-      android:text="Welcome to Bus schedule"
-      android:textStyle="bold"
-      android:layout_width="match_parent"
-      android:layout_height="match_parent" />
+
+
+
+
+
+
+
+    <ListView
+        android:id="@+id/listViewId"
+        android:listSelector="#f1eec1"
+        android:dividerHeight="2dp"
+        android:divider="#28666e"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+    </ListView>
 
 </LinearLayout>
